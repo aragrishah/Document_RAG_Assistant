@@ -1,0 +1,362 @@
+[
+  {
+    "content": "NovaTech Systems Employee & Customer Policy Handbook Version 4.2 - Effective 1 April 2025 This handbook consolidates the human resources, information security, and customer-facing policies of NovaTech Systems Pvt. Ltd. It supersedes all previously circulated policy memoranda, including the HR Circular of November 2023 and the Warranty Addendum of June 2024. All employees are required to acknowledge receipt of this handbook within fourteen days of their joining date through the HR portal at portal.novatech.example.com. Customers may rely on Sections 6 through 8 as the binding statement of NovaTech's warranty, return and support commitments. Document owner: Office of the Chief People Officer. Review cycle: annual.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 1,
+      "chunk_id": 0,
+      "char_count": 721,
+      "token_estimate": 180
+    }
+  },
+  {
+    "content": "Customers may rely on Sections 6 through 8 as the binding statement of NovaTech's warranty, return and support commitments. Document owner: Office of the Chief People Officer. Review cycle: annual. Questions regarding interpretation should be directed to policy@novatech.example.com.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 1,
+      "chunk_id": 1,
+      "char_count": 283,
+      "token_estimate": 71
+    }
+  },
+  {
+    "content": "1. Leave and Time Off 1.1 Annual Leave All confirmed full-time employees are entitled to 22 working days of paid annual leave per calendar year, accrued at 1.83 days per completed month of service. Employees serving their probation period accrue leave from their date of joining but may not avail more than 5 days until probation is confirmed. Leave requests of three days or fewer require approval from the reporting manager only, and must be submitted at least five working days in advance. Leave requests exceeding three days require approval from both the reporting manager and the department head, submitted at least fifteen working days in advance. A maximum of 8 unused days may be carried forward into the following calendar year. Carried-forward leave lapses on 31 March if not used.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 2,
+      "chunk_id": 2,
+      "char_count": 792,
+      "token_estimate": 198
+    }
+  },
+  {
+    "content": "Leave requests exceeding three days require approval from both the reporting manager and the department head, submitted at least fifteen working days in advance. A maximum of 8 unused days may be carried forward into the following calendar year. Carried-forward leave lapses on 31 March if not used. Encashment of unused leave is permitted only at the time of exit, capped at 30 days and calculated on basic salary. 1.2 Sick Leave Employees receive 12 days of paid sick leave per calendar year, separate from annual leave. Sick leave does not carry forward and is not encashable. Absence of three or more consecutive days requires a medical certificate from a registered practitioner, uploaded to the HR portal within seven days of returning to work.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 2,
+      "chunk_id": 3,
+      "char_count": 750,
+      "token_estimate": 188
+    }
+  },
+  {
+    "content": "Absence of three or more consecutive days requires a medical certificate from a registered practitioner, uploaded to the HR portal within seven days of returning to work. Sick leave must be reported to the reporting manager by 10:00 AM on the first day of absence. 1.3 Parental Leave Primary caregivers are entitled to 26 weeks of paid parental leave, which may commence up to eight weeks before the expected date of delivery. Secondary caregivers are entitled to four weeks of paid leave, to be availed within six months of the birth or adoption. Adoptive and surrogate parents receive identical entitlements. Employees returning from parental leave may request a phased return at 60 percent of contracted hours for the first eight weeks at full pay.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 2,
+      "chunk_id": 4,
+      "char_count": 751,
+      "token_estimate": 188
+    }
+  },
+  {
+    "content": "Adoptive and surrogate parents receive identical entitlements. Employees returning from parental leave may request a phased return at 60 percent of contracted hours for the first eight weeks at full pay. 1.4 Bereavement and Emergency Leave Five days of paid bereavement leave are available on the death of an immediate family member, and two days for extended family. An additional three days of unpaid emergency leave per year may be approved at the discretion of the department head for circumstances not covered elsewhere in this section. 1.5 Public Holidays NovaTech observes 10 fixed public holidays and 2 restricted holidays per calendar year. The holiday calendar is published each December for the following year. Public holidays are not deducted from the annual leave entitlement.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 2,
+      "chunk_id": 5,
+      "char_count": 789,
+      "token_estimate": 197
+    }
+  },
+  {
+    "content": "1.5 Public Holidays NovaTech observes 10 fixed public holidays and 2 restricted holidays per calendar year. The holiday calendar is published each December for the following year. Public holidays are not deducted from the annual leave entitlement. Employees required to work on a public holiday receive compensatory time off within 60 days.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 2,
+      "chunk_id": 6,
+      "char_count": 340,
+      "token_estimate": 85
+    }
+  },
+  {
+    "content": "2. Remote and Hybrid Working 2.1 Eligibility and Baseline NovaTech operates a hybrid model. Employees in engineering, design and documentation roles are required to attend a company office for a minimum of eight days per calendar month, of which at least two must fall on a Tuesday or Wednesday to support team ceremonies. Employees in customer support, facilities and laboratory roles are on-site roles and are not eligible for the hybrid baseline. 2.2 Fully Remote Arrangements A fully remote arrangement may be approved for employees who have completed twelve months of service and hold a performance rating of \"Meets Expectations\" or above. Applications are reviewed quarterly by the department head and the Chief People Officer.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 3,
+      "chunk_id": 7,
+      "char_count": 733,
+      "token_estimate": 183
+    }
+  },
+  {
+    "content": "2.2 Fully Remote Arrangements A fully remote arrangement may be approved for employees who have completed twelve months of service and hold a performance rating of \"Meets Expectations\" or above. Applications are reviewed quarterly by the department head and the Chief People Officer. Approved arrangements are reviewed every six months and may be withdrawn with 30 days' notice if business needs change. 2.3 Home Office Allowance Employees approved for fully remote or hybrid work receive a one-time home office setup allowance of INR 35,000, claimable within the first 90 days of approval, and a monthly connectivity allowance of INR 1,500. Equipment purchased with the setup allowance remains the property of NovaTech and must be returned on exit if the individual item cost exceeds INR 10,000.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 3,
+      "chunk_id": 8,
+      "char_count": 796,
+      "token_estimate": 199
+    }
+  },
+  {
+    "content": "Equipment purchased with the setup allowance remains the property of NovaTech and must be returned on exit if the individual item cost exceeds INR 10,000. 2.4 Working Hours and Availability Core collaboration hours are 11:00 AM to 5:00 PM IST, during which all employees are expected to be reachable. Outside these hours, employees may structure their day as they see fit, provided contracted hours are met and commitments to customers are honoured. Employees working from a location more than three time zones from IST must agree a written overlap schedule with their manager.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 3,
+      "chunk_id": 9,
+      "char_count": 577,
+      "token_estimate": 144
+    }
+  },
+  {
+    "content": "3. Travel and Expense Reimbursement 3.1 Approval and Submission All business travel must be approved in advance through the travel module of the HR portal. Expense claims must be submitted within 30 days of the expenditure, accompanied by itemised receipts. Claims submitted after 30 days require a written justification and the approval of the Finance Controller; claims older than 90 days will not be reimbursed under any circumstance. Reimbursements are processed in the payroll cycle following approval and are credited together with salary. Employees should expect reimbursement within 15 to 20 business days of claim approval. 3.2 Daily Limits The following per-day limits apply to domestic travel. International limits are published separately by the Finance team and vary by destination.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 4,
+      "chunk_id": 10,
+      "char_count": 795,
+      "token_estimate": 199
+    }
+  },
+  {
+    "content": "3.2 Daily Limits The following per-day limits apply to domestic travel. International limits are published separately by the Finance team and vary by destination. Category Grade L1-L3 Grade L4-L6 Grade L7 and above Hotel (per night) INR 4,000 INR 7,500 INR 12,000 Meals (per day) INR 1,200 INR 1,800 INR 2,500 Local transport INR 800 INR 1,500 Actuals Air travel Economy Economy Economy / Business above 6 hrs Expenditure above these limits requires pre-approval from the department head and the Finance Controller. Alcohol, personal entertainment, traffic fines and upgrades purchased at the traveller's discretion are not reimbursable. 3.3 Client Entertainment Client entertainment up to INR 10,000 per event may be approved by the department head.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 4,
+      "chunk_id": 11,
+      "char_count": 750,
+      "token_estimate": 188
+    }
+  },
+  {
+    "content": "Alcohol, personal entertainment, traffic fines and upgrades purchased at the traveller's discretion are not reimbursable. 3.3 Client Entertainment Client entertainment up to INR 10,000 per event may be approved by the department head. Any single event exceeding INR 10,000, or cumulative entertainment spend exceeding INR 50,000 per client per quarter, requires approval from the Chief Revenue Officer. The names and organisations of all attendees must be recorded on the claim.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 4,
+      "chunk_id": 12,
+      "char_count": 478,
+      "token_estimate": 120
+    }
+  },
+  {
+    "content": "4. Information Security and Acceptable Use 4.1 Account Security Multi-factor authentication is mandatory on all NovaTech accounts. Hardware security keys are issued to employees with production access. Passwords must be a minimum of 14 characters and must not be reused across systems. The company password manager is the only approved storage location. Credentials, API keys and access tokens must never be committed to source control, pasted into chat tools, or shared over email - including with colleagues. Suspected credential compromise must be reported to security@novatech.example.com immediately and in no case later than one hour after discovery.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 5,
+      "chunk_id": 13,
+      "char_count": 656,
+      "token_estimate": 164
+    }
+  },
+  {
+    "content": "Credentials, API keys and access tokens must never be committed to source control, pasted into chat tools, or shared over email - including with colleagues. Suspected credential compromise must be reported to security@novatech.example.com immediately and in no case later than one hour after discovery. 4.2 Device Management All devices accessing company data must be enrolled in the mobile device management programme, encrypted at rest, and configured to lock after five minutes of inactivity. Personal devices may be used for email and chat only, and only after enrolment. Access to source code, customer data and production systems from personal devices is prohibited.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 5,
+      "chunk_id": 14,
+      "char_count": 672,
+      "token_estimate": 168
+    }
+  },
+  {
+    "content": "Personal devices may be used for email and chat only, and only after enrolment. Access to source code, customer data and production systems from personal devices is prohibited. Loss or theft of a company device must be reported to the IT service desk within four hours of discovery, after which the device will be remotely wiped. Employees are not held financially liable for a first loss reported within this window.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 5,
+      "chunk_id": 15,
+      "char_count": 417,
+      "token_estimate": 104
+    }
+  },
+  {
+    "content": "Loss or theft of a company device must be reported to the IT service desk within four hours of discovery, after which the device will be remotely wiped. Employees are not held financially liable for a first loss reported within this window.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 5,
+      "chunk_id": 16,
+      "char_count": 240,
+      "token_estimate": 60
+    }
+  },
+  {
+    "content": "Employees are not held financially liable for a first loss reported within this window. 4.3 Data Classification Classification Examples Handling requirement Public Marketing site, press releases No restriction Internal Org charts, roadmaps, this handbook NovaTech accounts only Confidential Customer records, contracts, source code Need-to-know; encrypted transfer only Restricted Payment data, credentials, HR case files Named access list; quarterly audit Customer data classified as Confidential or Restricted may not be copied to personal cloud storage, transmitted through unapproved messaging applications, or used in third-party artificial intelligence tools that have not been reviewed by the Security team.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 5,
+      "chunk_id": 17,
+      "char_count": 714,
+      "token_estimate": 178
+    }
+  },
+  {
+    "content": "4.3 Data Classification Classification Examples Handling requirement Public Marketing site, press releases No restriction Internal Org charts, roadmaps, this handbook NovaTech accounts only Confidential Customer records, contracts, source code Need-to-know; encrypted transfer only Restricted Payment data, credentials, HR case files Named access list; quarterly audit Customer data classified as Confidential or Restricted may not be copied to personal cloud storage, transmitted through unapproved messaging applications, or used in third-party artificial intelligence tools that have not been reviewed by the Security team. 4.4 Software and AI Tools Only software listed in the approved applications catalogue may be installed on company devices.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 5,
+      "chunk_id": 18,
+      "char_count": 749,
+      "token_estimate": 187
+    }
+  },
+  {
+    "content": "4.4 Software and AI Tools Only software listed in the approved applications catalogue may be installed on company devices. Requests for new tools are reviewed within ten business days. Generative AI assistants may be used for code and content drafting provided no Confidential or Restricted data is entered, and all generated code is reviewed by a human before merge.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 5,
+      "chunk_id": 19,
+      "char_count": 367,
+      "token_estimate": 92
+    }
+  },
+  {
+    "content": "5. Code of Conduct and Grievance Redressal 5.1 Expected Conduct NovaTech is committed to a workplace free of harassment, discrimination and retaliation. Discrimination on the basis of gender, gender identity, caste, religion, disability, sexual orientation, age or marital status is prohibited in hiring, compensation, promotion and day-to-day working relationships. 5.2 Conflicts of Interest Employees must declare any financial interest in, or family relationship with, a supplier, customer or competitor of NovaTech. Outside employment and consulting engagements require written approval from the department head. Declarations are made annually through the compliance module and updated within 30 days of any change in circumstances.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 6,
+      "chunk_id": 20,
+      "char_count": 736,
+      "token_estimate": 184
+    }
+  },
+  {
+    "content": "Outside employment and consulting engagements require written approval from the department head. Declarations are made annually through the compliance module and updated within 30 days of any change in circumstances. 5.3 Raising a Concern Concerns may be raised with the reporting manager, with any member of the HR team, or anonymously through the ethics hotline at ethics@novatech.example.com. All reports are acknowledged within two business days. Formal investigations are concluded within 30 business days, extendable once by 15 days with written notice to the complainant. Retaliation against any person who raises a concern in good faith, or who participates in an investigation, is itself a disciplinary offence and is treated with the same seriousness as the original allegation.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 6,
+      "chunk_id": 21,
+      "char_count": 788,
+      "token_estimate": 197
+    }
+  },
+  {
+    "content": "Retaliation against any person who raises a concern in good faith, or who participates in an investigation, is itself a disciplinary offence and is treated with the same seriousness as the original allegation. 5.4 Internal Committee The Internal Committee constituted under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 receives and adjudicates complaints of sexual harassment. The Committee comprises four members including an external member from a non-governmental organisation. Complaints may be filed within three months of the incident, extendable by a further three months at the Committee's discretion.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 6,
+      "chunk_id": 22,
+      "char_count": 658,
+      "token_estimate": 164
+    }
+  },
+  {
+    "content": "6. Product Warranty Policy 6.1 Standard Coverage All NovaTech hardware carries a 24-month limited warranty from the date of delivery, covering defects in materials and workmanship under normal use. The NovaTech Pulse and NovaTech Pulse Pro laptop ranges carry an extended 36-month warranty on the motherboard and display assembly. Warranty service is provided at NovaTech's discretion by repair, replacement with an equivalent refurbished unit, or refund of the purchase price. Replacement units carry the remainder of the original warranty or 90 days, whichever is longer. 6.2 What Is Covered Manufacturing defects in the motherboard, display panel, keyboard assembly and internal storage.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 7,
+      "chunk_id": 23,
+      "char_count": 690,
+      "token_estimate": 172
+    }
+  },
+  {
+    "content": "Replacement units carry the remainder of the original warranty or 90 days, whichever is longer. 6.2 What Is Covered Manufacturing defects in the motherboard, display panel, keyboard assembly and internal storage. Battery capacity falling below 70 percent of rated capacity within the first 18 months, verified by the NovaTech diagnostic utility. Power adapters and bundled peripherals, for 12 months from delivery. Pre-installed NovaTech software failing to operate as documented. 6.3 What Is Not Covered Accidental damage, including drops, cracked screens and liquid ingress, unless an Accidental Damage Protection plan was purchased. Cosmetic wear such as scratches, discolouration and worn key legends. Damage caused by unauthorised repair, modification, or use of non-certified power adapters.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 7,
+      "chunk_id": 24,
+      "char_count": 797,
+      "token_estimate": 199
+    }
+  },
+  {
+    "content": "Cosmetic wear such as scratches, discolouration and worn key legends. Damage caused by unauthorised repair, modification, or use of non-certified power adapters. Consumable items, third-party accessories, and software not supplied by NovaTech. Units whose serial number has been removed, altered or rendered illegible. 6.4 Making a Claim Warranty claims are initiated at support.novatech.example.com or by telephone on 1800-200-6632. The original invoice and the device serial number are required. Once a claim is approved, a prepaid shipping label is issued within two business days. Standard turnaround from receipt of the unit at the service centre is 7 to 10 business days; units under an Accidental Damage Protection plan receive a 48-hour expedited turnaround.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 7,
+      "chunk_id": 25,
+      "char_count": 766,
+      "token_estimate": 192
+    }
+  },
+  {
+    "content": "7. Returns, Refunds and Cancellations 7.1 Standard Return Window Customers purchasing directly from NovaTech may return any product within 30 calendar days of delivery for a full refund, provided the product is returned in its original packaging with all bundled accessories and documentation. Products returned between day 31 and day 45 are eligible for store credit only. No returns are accepted after day 45. Business and enterprise customers purchasing under a volume agreement are subject to the return terms of that agreement, which take precedence over this section.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 8,
+      "chunk_id": 26,
+      "char_count": 573,
+      "token_estimate": 143
+    }
+  },
+  {
+    "content": "No returns are accepted after day 45. Business and enterprise customers purchasing under a volume agreement are subject to the return terms of that agreement, which take precedence over this section. 7.2 Restocking and Deductions Condition of returned item Refund payable Unopened, seal intact 100% of purchase price Opened, complete, undamaged 100% of purchase price Opened, missing accessories Purchase price less accessory list price Cosmetic damage or heavy use 85% of purchase price (15% restocking fee) Custom-configured units 80% of purchase price (20% restocking fee) 7.3 Refund Processing Approved refunds are credited to the original payment method within 7 to 10 business days of the returned unit being received and inspected at the NovaTech warehouse.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 8,
+      "chunk_id": 27,
+      "char_count": 764,
+      "token_estimate": 191
+    }
+  },
+  {
+    "content": "7.2 Restocking and Deductions Condition of returned item Refund payable Unopened, seal intact 100% of purchase price Opened, complete, undamaged 100% of purchase price Opened, missing accessories Purchase price less accessory list price Cosmetic damage or heavy use 85% of purchase price (15% restocking fee) Custom-configured units 80% of purchase price (20% restocking fee) 7.3 Refund Processing Approved refunds are credited to the original payment method within 7 to 10 business days of the returned unit being received and inspected at the NovaTech warehouse. Refunds to credit cards may take one additional billing cycle to appear on the customer's statement, which is a function of the issuing bank and outside NovaTech's control.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 8,
+      "chunk_id": 28,
+      "char_count": 737,
+      "token_estimate": 184
+    }
+  },
+  {
+    "content": "Refunds to credit cards may take one additional billing cycle to appear on the customer's statement, which is a function of the issuing bank and outside NovaTech's control. Where the original payment method is no longer valid, refunds are issued by bank transfer against written confirmation of account details. Shipping charges paid at the time of purchase are refunded only where the return arises from a defect, a shipping error, or a cancellation made before dispatch. 7.4 Order Cancellation Orders may be cancelled without charge at any point before dispatch. Once an order has been dispatched, the standard return process applies. Custom-configured units enter production 24 hours after order confirmation and cannot be cancelled without charge after that point.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 8,
+      "chunk_id": 29,
+      "char_count": 768,
+      "token_estimate": 192
+    }
+  },
+  {
+    "content": "8. Customer Support and Service Levels 8.1 Support Channels Technical support is available by web portal, email and telephone. Portal and email channels operate 24 hours a day. Telephone support operates from 9:00 AM to 9:00 PM IST on business days for Standard customers, and 24 hours a day for Premium and Enterprise customers. 8.2 Response and Resolution Targets Severity is assigned by NovaTech at the point of triage. Customers may request escalation of severity through their account manager.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 9,
+      "chunk_id": 30,
+      "char_count": 498,
+      "token_estimate": 124
+    }
+  },
+  {
+    "content": "8.2 Response and Resolution Targets Severity is assigned by NovaTech at the point of triage. Customers may request escalation of severity through their account manager. Severity Definition First response Target resolution S1 - Critical Production down, no workaround 30 minutes 8 hours S2 - High Major function impaired, workaround exists 2 hours 2 business days S3 - Medium Minor function impaired 8 business hours 5 business days S4 - Low Question, documentation or feature request 2 business days Best effort The targets above apply to Premium and Enterprise plans. Standard plan customers receive first response targets of 4 hours for S1, 8 business hours for S2, and 2 business days for S3 and S4.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 9,
+      "chunk_id": 31,
+      "char_count": 702,
+      "token_estimate": 176
+    }
+  },
+  {
+    "content": "Severity Definition First response Target resolution S1 - Critical Production down, no workaround 30 minutes 8 hours S2 - High Major function impaired, workaround exists 2 hours 2 business days S3 - Medium Minor function impaired 8 business hours 5 business days S4 - Low Question, documentation or feature request 2 business days Best effort The targets above apply to Premium and Enterprise plans. Standard plan customers receive first response targets of 4 hours for S1, 8 business hours for S2, and 2 business days for S3 and S4. 8.3 Service Credits Where NovaTech fails to meet the committed first response target for an S1 incident, Enterprise customers are entitled to a service credit of 5 percent of the monthly support fee per occurrence, capped at 25 percent in any calendar month.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 9,
+      "chunk_id": 32,
+      "char_count": 792,
+      "token_estimate": 198
+    }
+  },
+  {
+    "content": "8.3 Service Credits Where NovaTech fails to meet the committed first response target for an S1 incident, Enterprise customers are entitled to a service credit of 5 percent of the monthly support fee per occurrence, capped at 25 percent in any calendar month. Credits must be claimed within 30 days of the incident and are applied against the next invoice. Service credits are the sole and exclusive remedy for a failure to meet service levels. 8.4 Escalation Path Level 1 - Support engineer, through the assigned ticket. Level 2 - Support team lead, if no response within the committed target. Level 3 - Head of Customer Success, by writing to escalations@novatech.example.com. Level 4 - Chief Revenue Officer, for Enterprise customers only, through the account manager. 9.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 9,
+      "chunk_id": 33,
+      "char_count": 773,
+      "token_estimate": 193
+    }
+  },
+  {
+    "content": "Level 3 - Head of Customer Success, by writing to escalations@novatech.example.com. Level 4 - Chief Revenue Officer, for Enterprise customers only, through the account manager. 9. Contacts Topic Contact Leave, payroll and HR policy people@novatech.example.com Expense claims and reimbursement finance@novatech.example.com Security incidents and credential compromise security@novatech.example.com IT service desk (device loss, access) servicedesk@novatech.example.com",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 9,
+      "chunk_id": 34,
+      "char_count": 467,
+      "token_estimate": 117
+    }
+  },
+  {
+    "content": "Topic Contact Ethics hotline (anonymous) ethics@novatech.example.com Warranty and returns support.novatech.example.com / 1800-200-6632 Enterprise escalations escalations@novatech.example.com This handbook is reviewed annually. The next scheduled review is 1 April 2026. Interim amendments are circulated by email and published to the HR portal; the version published to the portal is authoritative in the event of any discrepancy.",
+    "metadata": {
+      "source": "NovaTech_Company_Policy_Handbook.pdf",
+      "page": 10,
+      "chunk_id": 35,
+      "char_count": 430,
+      "token_estimate": 108
+    }
+  }
+]

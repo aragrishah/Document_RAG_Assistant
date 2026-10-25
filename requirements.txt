@@ -1,0 +1,6 @@
+pypdf
+nltk
+sentence-transformers
+chromadb
+numpy
+requests
